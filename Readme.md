@@ -6,3 +6,4 @@ Blablabla
 
 Nova mensagem
 
+Blablablabla
